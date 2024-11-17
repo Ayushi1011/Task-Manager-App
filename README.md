@@ -1,3 +1,18 @@
+# To-Do List with Priority and Deadline
+
+## Overview
+
+This is a simple To-Do List application built with React JS. The application allows users to:
+
+- Add tasks with task name, priority (High, Medium, Low), and deadline.
+- Mark tasks as complete.
+- Delete tasks.
+- Sort tasks by priority.
+- Filter tasks by completion status.
+- Highlight tasks with deadlines within the next two days.
+
+The tasks are stored in the browser’s `localStorage` to ensure persistence even after the page is refreshed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
